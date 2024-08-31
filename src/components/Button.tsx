@@ -13,7 +13,7 @@ const Button = ({
     iconURL,
     backgroundColor,
     textColor,
-    borderColor,
+    borderColor, 
     fullWidth,
   }: Props) => {
     return (
